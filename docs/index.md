@@ -3,7 +3,7 @@
 ![My Portfolio Image](images/20251005_183147254_iOS.jpg)
 
 
-> ### **An engineer in the making...**
+> # **An engineer in the making...**
 >
 > ## Quick Navigation
 > [About Me](about.md)
