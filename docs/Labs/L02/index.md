@@ -11,3 +11,7 @@
 
  Source : Google Search
 
+ ## Group Findings
+
+ I learned from my group discussion that the 45 degree rule is a very critical design rule for additive manufacturing. It allows the material to hold together much more securely than adjoining the materials in random locations. 
+
