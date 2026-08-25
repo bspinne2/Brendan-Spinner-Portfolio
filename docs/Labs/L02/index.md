@@ -5,7 +5,9 @@
  Source : Google Search
 
 
- ## FDM Specific Consideration - How to work around it?
+## FDM Specific Consideration - How to work around it?
 
  For instance, warping is a FDM specific consideration where the material loses its original geometry by bending or twisting. This is typically worked around by adding ribs or braces to the material. This creates a structural integrity to the build that resists bending or warping from occurring. 
+
+ Source : Google Search
 
