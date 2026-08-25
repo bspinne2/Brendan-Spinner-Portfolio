@@ -1,13 +1,4 @@
-# A2 – Truss Stress Analysis
+ ## Design rule for Additive Manufacturing?
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
+ A minimum wall thickness is needed to bond layers securely together, but thin enough to avoid trapped heat or internal stress.
 
