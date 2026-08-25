@@ -1,6 +1,6 @@
 # MEGR 2156 — Design Projects I Laboratory - Home Page
 
-(images/20251005_183147254_iOS.jpg)
+(docs/20251005_183147254_iOS.jpg)
 
 
 > # **An engineer in the making...**
