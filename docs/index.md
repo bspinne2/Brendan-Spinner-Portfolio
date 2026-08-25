@@ -1,6 +1,6 @@
 # MEGR 2156 — Design Projects I Laboratory - Home Page
 
-![My Portfolio Image](images/20251005_183147254_iOS.jpg)
+!(images/20251005_183147254_iOS.jpg)
 
 
 > # **An engineer in the making...**
@@ -10,6 +10,21 @@
 >
 >
 >  [Portfolio Overview](portfolio-overview.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Welcome to your design portfolio.**
 
