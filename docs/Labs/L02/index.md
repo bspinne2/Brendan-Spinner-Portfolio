@@ -20,8 +20,16 @@
 
 ## Printing Something...
 
-When looking for an object to print out, I navigated to printables.com and search the phrase "small print." Using this search, I surfed to find an object that looked like it fit the given criteria. 
+### Downloading
+
+When looking for an object to print out, I navigated to printables.com and search the phrase "small print." Using this search, I surfed to find an object that looked like it fit the given criteria; No more than 2 by 2 inches, .25 inches tall, and less than an hour and a half print time.
 
 ![Screenshot](Screenshot%202026-08-31%20102308.png)
 
 [Download Model Files](small-travel-container-model_files.zip)
+
+Additionally, I thought the tiny storage container would be a cool and unique build to do. Not to mention I could potentially use it for practical use. 
+
+### Preprocessor
+
+
