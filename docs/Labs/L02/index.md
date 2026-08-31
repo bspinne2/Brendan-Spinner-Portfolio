@@ -22,5 +22,6 @@
 
 When looking for an object to print out, I navigated to printables.com and search the phrase "small print." Using this search, I surfed to find an object that looked like it fit the given criteria. 
 
-(Screenshot 2026-08-31 102308.png)
-(small-travel-container-model_files.zip)
+![Screenshot](Screenshot 2026-08-31 102308.png)
+
+[Download Model Files](small-travel-container-model_files.zip)
