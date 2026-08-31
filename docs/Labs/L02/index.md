@@ -32,4 +32,7 @@ Additionally, I thought the tiny storage container would be a cool and unique bu
 
 ### Preprocessor
 
+The next step was to upload the file into Prusa Slicer. When arranging all of our builds on the board, it was made apparent to us to center our builds as close together as possible. Doing this would only reduce the printing time of our builds. After uploading my container, I realized it was much taller than I had originally believed it would be. To fix this, we seperated the cap from the base of the container into two separate builds. 
 
+![Screenshot 1](Screenshot%202026-08-29%20153935.png)
+![Screenshot 2](Screenshot%202026-08-29%20153929.png)
