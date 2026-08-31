@@ -1,4 +1,7 @@
- ## Design rule for Additive Manufacturing?
+# Lab 2) Print Something Small
+ 
+ 
+## Design rule for Additive Manufacturing?
 
  A minimum wall thickness is needed to bond layers securely together, but thin enough to avoid trapped heat or internal stress. If a wall is too thin to hold together, the materials will not hold together and will fall apart.
 
@@ -15,3 +18,6 @@
 
  I learned from my group discussion that the 45 degree rule is a very critical design rule for additive manufacturing. It allows the material to hold together much more securely than adjoining the materials in random locations. 
 
+## Printing Something...
+
+When looking for an object to print out, I navigated to printables.com and search the phrase "small print." Using this search, I surfed to find an object that looked like it fit the given criteria. 
