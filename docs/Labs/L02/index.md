@@ -36,3 +36,10 @@ The next step was to upload the file into Prusa Slicer. When arranging all of ou
 
 ![Screenshot 1](Screenshot%202026-08-29%20153935.png)
 ![Screenshot 2](Screenshot%202026-08-29%20153929.png)
+
+Another issue I faced was that my build was much larger than I had originally thought. To fix this, we had to scale my build down a little bit. While the build came out great, it would have been a greater idea to pick an object that was less bulky and had a smaller ceiling that the container did. No supports were needed for my build.
+
+### Print 
+
+After arranging our builds and downloading it to our USB, we made our way to our 3D printer. The steps were relatively easy; I plugged in the USB, hit start, and waiting for our builds to print. I was shocked at how easy the whole process was. 
+
