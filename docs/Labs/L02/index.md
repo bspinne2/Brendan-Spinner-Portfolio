@@ -48,8 +48,8 @@ After arranging our builds and downloading it to our USB, we made our way to our
 
 [Decision Video 2](../../IMG_2848.mov)
 
-![Decision Image 1](../../IMG_2849.jpeg)
+![Decision Image 1](../../WIN_20260824_22_31_16_Pro.jpg)
 
-![Decision Image 2](../../IMG_2850.jpeg)
+![Decision Image 2](../../WIN_20260824_22_31_31_Pro.jpg)
 
 
