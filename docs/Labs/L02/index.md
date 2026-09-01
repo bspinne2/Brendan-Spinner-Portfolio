@@ -44,9 +44,13 @@ Another issue I faced was that my build was much larger than I had originally th
 After arranging our builds and downloading it to our USB, we made our way to our 3D printer. The steps were relatively easy; I plugged in the USB, hit start, and waiting for our builds to print. I was shocked at how easy the whole process was. 
 
 
-[Decision Video 1](../../IMG_2847.mov)
+[View Video 1](IMG_2848%20%281%29.mov)
 
-[Decision Video 2](../../IMG_2848.mov)
+[View Video 2](IMG_2847%20%281%29.mov)
+
+![Image 1](IMG_2852.jpeg)
+
+![Image 2](IMG_2851.jpeg)
 
 [Decision Image 1](../../IMG_2849.jpeg)
 
