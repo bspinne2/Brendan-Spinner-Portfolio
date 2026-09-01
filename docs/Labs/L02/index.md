@@ -47,11 +47,23 @@ After arranging our builds and downloading it to our USB, we made our way to our
 
 ![Image 2](IMG_2850.jpeg)
 
+This was a before and after picture of the 3D printing process. The printer utilized PLA filament and automatically placed the filament down layer by layer until all of the builds were complete. I worked with Nathan, Derek, and Luz and we used printer 103. 
+
 [View Video 1](IMG_2848%20%281%29.mov)
 
 [View Video 2](IMG_2847%20%281%29.mov)
 
+This is what my final product looks like:
+
 ![Image 1](IMG_2852.jpeg)
 
 ![Image 2](IMG_2851.jpeg)
+
+### Lessons Learned
+
+I learned many things about this process that I never before knew. I learned that we use filament for our 3D prints and that the process itself is relatively easy. I learned that the printer starts from the base platform and goes up in layers, and that the farther apart the builds are from one another, the longer the printing time will be. 
+
+Resources : printables.com , prusa3d.com/prusaslicer
+
+
 
