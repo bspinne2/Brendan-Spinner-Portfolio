@@ -40,5 +40,11 @@ The next course of action was downloading my design into a .STL file and importi
 
 When I imported the design into Prusa Slicer, I noticed that I did not need to scale the object at all as it already fit the size requirement. I changed the infill 
 
+![Screenshot](./Screenshot%202026-09-03%20141345.png)
 
+![Screenshot](./Screenshot%202026-09-03%20133708.png)
+
+![Screenshot](./Screenshot%202026-09-03%20133615.png)
+
+![Screenshot](./Screenshot%202026-09-03%20132950.png)
 
