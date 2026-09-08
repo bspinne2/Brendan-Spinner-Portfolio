@@ -16,6 +16,12 @@ Next in the design process, I wanted to create one more unique design to incorpo
 
 ![Screenshot](./Screenshot%202026-09-01%20141838.png)
 
+I used the pattern tool to rotate the oval extrudes around the circular extrude. I am very satisfied with how it all turned out. Now that my design was finished, it was time to move on to the next step. 
+
+## Research
+
+For the research portion, I was tasked with researching 3 different types of infill. These are the three that I looked into; 
+
 
 
 
