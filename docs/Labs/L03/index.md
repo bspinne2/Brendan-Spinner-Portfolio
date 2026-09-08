@@ -56,6 +56,10 @@ Now it was time to print my design. After some troubleshooting with finding the 
 
 [View Video 2](./IMG_2890%20%281%29.mov)
 
+![Video Preview](./IMG_2891.jpeg)
+
+![Video Preview](./IMG_2920.jpeg)
+
 
 
 
