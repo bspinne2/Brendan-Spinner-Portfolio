@@ -48,3 +48,9 @@ When I imported the design into Prusa Slicer, I noticed that I did not need to s
 
 ![Screenshot](./Screenshot%202026-09-03%20132950.png)
 
+## Printing 
+
+Now it was time to print my design. After some troubleshooting with finding the right printer, I finally was able to print it;
+
+
+
