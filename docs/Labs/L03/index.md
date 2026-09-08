@@ -14,6 +14,9 @@ After this base setup was complete, it was time to incorporate some complex patt
 
 Next in the design process, I wanted to create one more unique design to incorporate. Since my girlfriend's name is Lily, I thought a flower design would be a cool thing to try and make the design more interesting. 
 
+![Screenshot](./Screenshot%202026-09-01%20141838.png)
+
+
 
 
 
