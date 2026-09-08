@@ -30,4 +30,7 @@ For the research portion, I was tasked with researching 3 different types of inf
 
 From researching these types of infill, I realized that the higher the infill percentage, the more structurally sound the build will be. It will use up more material and will take longer to print, but will establish a strong base that is less likely to warp or experience other complications. 
 
+## Preprocessor and Printing
+
+The next course of action was downloading my design into a .STL file and importing it into Prusa Slicer. 
 
