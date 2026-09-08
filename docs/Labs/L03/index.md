@@ -22,7 +22,11 @@ I used the pattern tool to rotate the oval extrudes around the circular extrude.
 
 For the research portion, I was tasked with researching 3 different types of infill. These are the three that I looked into; 
 
+![Screenshot](./Screenshot%202026-09-03%20132632.png)
 
+![Screenshot](./Screenshot%202026-09-03%20132650.png)
+
+![Screenshot](./Screenshot%202026-09-03%20132704.png)
 
 
 
