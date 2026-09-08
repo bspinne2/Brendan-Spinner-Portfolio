@@ -1,13 +1,3 @@
-# A3 – [Topic]
+# Lab) 03 - Design Something Small
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
 
