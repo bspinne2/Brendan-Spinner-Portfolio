@@ -1,3 +1,9 @@
 # Lab) 03 - Design Something Small
 
+![Screenshot](./Screenshot%202026-09-08%20103253.png)
+
+## Design
+
+When it comes to the design of the object, my options were heavily limited due to how small the stipulations were for the assignment. I knew that I wanted to have a simple geometry with a personalized design imprinted on it to make it unique. I started to brainstorm ideas of things I can design considering the given restraints, and settled on the fidget toy route. I needed to pick a geometry to assign to the design, so I decided on an "L" shape after the initial of my girlfriend. I then figured I would place a hole at the corner of the L just big enough one can put a pencil through and spin it around similarly to a fidget spinner.
+
 
