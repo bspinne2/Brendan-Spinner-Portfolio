@@ -34,3 +34,7 @@ From researching these types of infill, I realized that the higher the infill pe
 
 The next course of action was downloading my design into a .STL file and importing it into Prusa Slicer. 
 
+![Screenshot](./Screenshot%202026-09-03%20132427.png)
+
+![Screenshot](./Screenshot%202026-09-03%20132417.png)
+
