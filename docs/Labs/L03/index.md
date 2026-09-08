@@ -53,6 +53,7 @@ When I imported the design into Prusa Slicer, I noticed that I did not need to s
 Now it was time to print my design. After some troubleshooting with finding the right printer, I finally was able to print it;
 
 [View Video 1](./IMG_2889%20%281%29.mov)
+
 [View Video 2](./IMG_2890%20%281%29.mov)
 
 
