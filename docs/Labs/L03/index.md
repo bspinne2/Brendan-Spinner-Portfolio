@@ -60,6 +60,20 @@ Now it was time to print my design. After some troubleshooting with finding the 
 
 ![Video Preview](./IMG_2920.jpeg)
 
+As noticeable by the final image, the hole was a perfect size to fit a pencil to spin it around. The final print turned out great and there were no complications with the printing process.
+
+## Lessons Learned
+
+I learned a lot more about how to navigate Prusa Slicer and the printing process. Additionally, I refreshed my skills with the design process, as it has been a while since I have last designed something using a CAD program. This whole process took about 5 hours, if you include the research, the printing process, as well as the portfolio overview. In terms of the importance of wall thickness and the amount of infill you assign, it is crucial to increase the amount of both for a greater structural integrity, while getting it wrong could decrease the reliability of the product. My mistakes were not really with the design itself, but with navigating the printing process as a whole. I am still rather new to 3D printing and is taking some experience to get accustomed to its processes. In real life, the amount of infill and wall thickness can even be applied to beams and members in construction as having a smaller amount can result in the structures not being as sturdy as they are intended to be. It is important to maintain the perfect balance between a lot of infill and not a lot so you maximize the cost to safety efficiency.
+
+## Sources
+
+https://help.prusa3d.com/article/infill-patterns_177130 - Prusa Knowledge Base
+
+Creo Parametric
+
+Prusa Slicer
+
 
 
 
