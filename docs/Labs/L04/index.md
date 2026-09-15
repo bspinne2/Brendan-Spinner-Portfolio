@@ -12,9 +12,11 @@ The main objective of this test is to see how material overhanging at different 
 
 ## Design Documentation
 
-When building the design, I wanted it to be unique and original from the inspiration image above. However, one aspect I aimed to replicate was the varying overhang angles showing the progression of the failure. I began by creating a rectangular extrude and began to sketch overhanging ramps on one side of the long face of the block. 
+When building the design, I wanted it to be unique and original from the inspiration image above. However, one aspect I aimed to replicate was the varying overhang angles showing the progression of the failure. I began by creating a rectangular extrude and began to sketch overhanging ramps on one side of the long face of the block. I noticed quickly that this would be a very bulky block if I simply had the ramps extruding on just one side. It was here I had the idea to create the overhangs on both sides of the block to create a symmetry of the block as well as keeping the printing time to a minimum. 
 
 ![Screenshot](./Screenshot%202026-09-10%20135159.png)
+
+This was my rough design of the block. While I was certain I could make it work, I felt as though making the differing angles so close together could make the discrepancies a lot more difficult to recognize. It was here I had the idea to add some spacing between each of the overhangs.
 
 ![Screenshot](./Screenshot%202026-09-10%20140231.png)
 
