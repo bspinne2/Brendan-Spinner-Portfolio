@@ -14,6 +14,8 @@ The main objective of this test is to see how material overhanging at different 
 
 When building the design, I wanted it to be unique and original from the inspiration image above. However, one aspect I aimed to replicate was the varying overhang angles showing the progression of the failure. I began by creating a rectangular extrude and began to sketch overhanging ramps on one side of the long face of the block. 
 
-![Screenshot](./Screenshot%202026-09-10%20140500.png)
+![Screenshot](./Screenshot%202026-09-10%20135159.png)
 
 ![Screenshot](./Screenshot%202026-09-10%20140231.png)
+
+![Screenshot](./Screenshot%202026-09-10%20140500.png)
