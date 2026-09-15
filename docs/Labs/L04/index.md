@@ -24,4 +24,10 @@ This was my rough design of the block. While I was certain I could make it work,
 
 After messing around with the spacing and dimensions, I finalized my design of the block. To add a more distinguished factor of my block, I delegated a different thickness for each of the overhangs to conclude how the thickness contributes to the test. 
 
-The next course of action was exporting the design onto PrusaSlicer. 
+The next course of action was exporting the design onto PrusaSlicer;
+
+![Screenshot](./Screenshot%202026-09-10%20140728.png)
+
+![Screenshot](./Screenshot%202026-09-10%20140844.png)
+
+I knew that the selected conditions that I chose on PrusaSlicer were incredibly crucial for the outcome of the test. 
