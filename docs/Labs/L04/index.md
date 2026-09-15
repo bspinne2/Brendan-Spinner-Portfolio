@@ -21,3 +21,7 @@ This was my rough design of the block. While I was certain I could make it work,
 ![Screenshot](./Screenshot%202026-09-10%20140231.png)
 
 ![Screenshot](./Screenshot%202026-09-10%20140500.png)
+
+After messing around with the spacing and dimensions, I finalized my design of the block. To add a more distinguished factor of my block, I delegated a different thickness for each of the overhangs to conclude how the thickness contributes to the test. 
+
+The next course of action was exporting the design onto PrusaSlicer. 
