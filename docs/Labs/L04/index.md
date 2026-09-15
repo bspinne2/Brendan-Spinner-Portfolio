@@ -24,6 +24,8 @@ This was my rough design of the block. While I was certain I could make it work,
 
 After messing around with the spacing and dimensions, I finalized my design of the block. To add a more distinguished factor of my block, I delegated a different thickness for each of the overhangs to conclude how the thickness contributes to the test. 
 
+## Preprocessor 
+
 The next course of action was exporting the design onto PrusaSlicer;
 
 ![Screenshot](./Screenshot%202026-09-10%20140728.png)
@@ -31,3 +33,7 @@ The next course of action was exporting the design onto PrusaSlicer;
 ![Screenshot](./Screenshot%202026-09-10%20140844.png)
 
 I knew that the selected conditions that I chose on PrusaSlicer were incredibly crucial for the outcome of the test. However, I was unsure on whether choosing certain conditions such as brim or higher infill would make the block more secure, and ultimately prevent the blocks ability to fail. It was for this reason that I opted to add only a small perimeter around the block and keep the infill as it is. Little did I know this decision would later bite me in the butt. 
+
+## Printing
+
+It was then time to print my artifact and see if it failed as I expected it to. 
