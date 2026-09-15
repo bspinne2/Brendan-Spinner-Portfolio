@@ -6,5 +6,4 @@ For this week, our objective is to utilize different 3D printing tests in order 
 
 I decided to observe the Overhang Angle Test as my parameter. I utilized the below image as an inspiration for my design.
 
-![Screenshot](Screenshot_2026-09-15_20115948.png)
-
+![Screenshot](./Screenshot%202026-09-15%20115948.png)
