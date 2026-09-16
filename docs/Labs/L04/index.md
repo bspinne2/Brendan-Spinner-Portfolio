@@ -37,3 +37,11 @@ I knew that the selected conditions that I chose on PrusaSlicer were incredibly 
 ## Printing
 
 It was then time to print my artifact and see if it failed as I expected it to. 
+
+<video src="IMG_2936.mov" width="100%" controls></video>
+
+![3D Print Result](IMG_2937.jpeg)
+
+![3D Print Result](IMG_2938.jpeg)
+
+![3D Print Result](IMG_2939.jpeg)
