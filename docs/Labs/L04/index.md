@@ -38,8 +38,7 @@ I knew that the selected conditions that I chose on PrusaSlicer were incredibly 
 
 It was then time to print my artifact and see if it failed as I expected it to. 
 
-<video src="IMG_2936.mov" width="100%" controls></video>
-
+https://github.com/user-attachments/assets/df843668-b94d-4a91-847f-525b53494e55
 
 ![3D Print Result](IMG_2937.jpeg)
 
