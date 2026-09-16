@@ -40,8 +40,22 @@ It was then time to print my artifact and see if it failed as I expected it to.
 
 https://github.com/user-attachments/assets/df843668-b94d-4a91-847f-525b53494e55
 
+The printing process was very smooth and it printed very fast. I was expecting some failure on the overhanging ramp, but it was layered pretty smoothly. 
+
 ![3D Print Result](IMG_2937.jpeg)
 
 ![3D Print Result](IMG_2938.jpeg)
 
 ![3D Print Result](IMG_2939.jpeg)
+
+After the my print came out, I realized there were many other parameters I probably should have changed to truly test the extent to my block. 
+
+## Lessons Learned 
+
+There were several things I learned throughout the process. For one I realized that my print should have been scaled to be much larger. With a larger hypotenuse on each of the ramps, I would have been able to fully test how each of the angles failed on a larger scale. I believe that one of the reasons I did not observe my block reaching failure is how small the scale was. Another way I believe I could have observed failure with the test is by increasing the overhanging angles past 45 degrees. Another thing I would change is adding less infill and support to print then listed as standard. This would reduce the structural integrity of the print and allow it to fail easier. A final thing I would change is increasing the overall height of the block and make it less flat. This would allow for the hypotenuses to be of a larger length and observe the failure at an easier extent. This took me only a few hours to design, print, and note my errors in my testing. I have gathered a lot from this lab and what causes printing failures.
+
+## Sources
+
+[https://4075618.fs1.hubspotusercontent-na1.net/hubfs/4075618/Gated%20content%20-%20PL%20Network%20-%202024/PL_3DP_Design_Rules_EN.pdf?utm_campaign=Gated%20Content%20Downloads&utm_medium=email&_hsmi=287588333&_hsenc=p2ANqtz-9fy_88Zy4gmXy_JiZW5Siez9y-bqLXe67GUmRFxhgzJCNrwlVRgvjp5BoVD8iVfLwIuHXrVMbXPx9zn6wuEYij-ZjYW4rQwUCAJOcqFh4TgSuYK9A&utm_content=287588333&utm_source=hs_automation](url)
+
+[https://www.printables.com/model/46948-overhang-angle-test/files#preview](url)
