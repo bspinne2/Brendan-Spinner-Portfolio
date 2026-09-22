@@ -15,5 +15,51 @@ Since the material I was to use is PLA, I discovered a common Young's Modulus fo
 
 <img width="3024" height="4032" alt="IMG_2999" src="https://github.com/user-attachments/assets/6010bd3a-91c7-4420-9026-2665104527e6" />
 
+When choosing values such as my width and height, I knew this would be a dimension I was bound to have to fix at a later point after observing how the design looks when I put it into CAD. However, for the moment I chose the initial values and went with it. I utilized the max deflection formula to solve for the length for the given width, height and max deflection of the box beam. I initially observed that the calculated length was way too small for a practical use. I then figured I forgot to change my young's modulus to be in terms of psi rather than pascals. After my second attempt, I got a length of 29.39in which was way too long after I imagined the print itself. I knew at this point I needed to start messing around with some of my values. 
 
+<img width="2589" height="3114" alt="IMG_3001" src="https://github.com/user-attachments/assets/9240205e-2e35-49b3-a789-f0286b772f21" />
 
+After looking at my values for a minute, I concluded that my max deflection was a lot larger than I would like it to be. I altered it to be 0.060 inches as I knew the height of my lip was to be smaller than the deflection to prevent permanent deformation. When I recalculated for the length, I got a value of 19.68 inches, which was a better alternative to the 29.39 inches I had before. The next course of action was to manually calculate for whether the stresses caused by the loads of the beams were anywhere near failure given a safety factor of 3.5. I concluded that all of the calculated stresses were well within the safety ranges and were nowhere near reaching failure. 
+
+## Parametric Design
+
+Now that a rough list of my values were solved for, it was time to start actually designing the beam in Solidworks. But before we could start sketching, we were to use parametric modeling to dimension the beam rather than concluded dimensions. This is useful as changing one value or equation in the equation manager will change the rest of the build and allow for more room to adjust the dimensions. I began by adding all the values and equations I calculated for into the equations manager;
+
+<img width="900" height="321" alt="Screenshot 2026-09-21 213448" src="https://github.com/user-attachments/assets/eacc7240-c6aa-47ae-b0b9-ca09ca42a058" />
+
+After my dimensions were assigned parametrically, it was time to start designing the geometry of the bar/beam and observe how the dimensions suit the design. I sketched out the right face of the beam and put in the variables for the length and height.
+
+<img width="957" height="392" alt="Screenshot 2026-09-21 214219" src="https://github.com/user-attachments/assets/e2e93e5e-6a1c-41b0-93d9-7e697c9b5d31" />
+<img width="815" height="280" alt="Screenshot 2026-09-21 214600" src="https://github.com/user-attachments/assets/a0740fb7-c488-40c5-86d2-b9d4af36e057" />
+
+Just looking at these initial sketches, I already decided that the length was too long in comparison to the height and that the dimensions need to be a lot more proportional to one another. I decided to recalculate for length by changing the values of the max deflection, height of the lip and overall height of the flexure beam. 
+
+<img width="842" height="261" alt="Screenshot 2026-09-21 215433" src="https://github.com/user-attachments/assets/133556fa-88e1-469e-a07d-f6ed95607d0f" />
+
+The proportionality of these dimensions were a lot more visually sound and resulted in a length of 3.010 inches. This amount was smaller than I would have liked but I was heading in the right direction.
+
+<img width="2850" height="692" alt="IMG_3003" src="https://github.com/user-attachments/assets/3de1ab00-d8fc-4658-912f-d792e34ef52c" />
+
+<img width="875" height="558" alt="Screenshot 2026-09-21 220116" src="https://github.com/user-attachments/assets/706d4371-9856-46e2-b4c2-9a9723d8c696" />
+
+## Holes and Pins of Beam 
+
+While the rough design was heading in the right direction, I discerned that the width of the flexure beam was still way too large and did not look as visually appealing as I would have liked. This is also where I began to plan for the holes and pins that would serve as the conjoining points for the two parts. I added some parametric dimensions for the holes and pins;
+
+<img width="785" height="222" alt="Screenshot 2026-09-21 222251" src="https://github.com/user-attachments/assets/cacdef1f-c578-4ee6-bfd4-fffe1c959748" />
+
+When creating the dimensions for the holes and pins, it was important to not let the holes take up the entire height of the face, and remain as concentric as possible. I decided that for extra support I want to create both holes and pins on both faces that connect into each other like dowels when building furniture. 
+
+<img width="1486" height="695" alt="Screenshot 2026-09-22 000221" src="https://github.com/user-attachments/assets/14167b50-e98d-406d-86c4-d892f77b2f26" />
+
+<img width="992" height="605" alt="Screenshot 2026-09-22 000728" src="https://github.com/user-attachments/assets/72a370cf-b6ee-42ac-bf41-305888ec622f" />
+
+It took me some time to discover how to make the pins mirror evenly on both sides of the hole in the center. I utilized the mirror tool under the linear pattern button to mirror the pins evenly across a plane that divided the beam in half like observed below;
+
+<img width="990" height="520" alt="Screenshot 2026-09-22 001706" src="https://github.com/user-attachments/assets/cfde8f75-42af-4998-8fcf-be97e0321c8a" />
+
+## Adjoining Piece
+
+The next step was to design and sketch the piece that the flexure beam was to affix itself to. The relieving aspect of this part is the limits and restrictions on this part are much less than on the flexure beam. This could be observed by the FBD of the adjoining part in my on-paper calculations. Nonetheless, the parametric modeling of the piece was much shorter than that of the flexure beam.
+
+<img width="782" height="212" alt="image" src="https://github.com/user-attachments/assets/78f37dcf-5d4b-4fba-b69c-5482d8a797a0" />
