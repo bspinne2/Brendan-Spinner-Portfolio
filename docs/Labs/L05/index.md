@@ -63,3 +63,16 @@ It took me some time to discover how to make the pins mirror evenly on both side
 The next step was to design and sketch the piece that the flexure beam was to affix itself to. The relieving aspect of this part is the limits and restrictions on this part are much less than on the flexure beam. This could be observed by the FBD of the adjoining part in my on-paper calculations. Nonetheless, the parametric modeling of the piece was much shorter than that of the flexure beam.
 
 <img width="782" height="212" alt="image" src="https://github.com/user-attachments/assets/78f37dcf-5d4b-4fba-b69c-5482d8a797a0" />
+
+I then started sketching and messing around with the correct design of the adjoining piece. I gathered that the adjoining area has to be large enough so the pins of the flexure beam could slide in without any unnecessary angling. 
+
+<img width="1067" height="578" alt="Screenshot 2026-09-22 004952" src="https://github.com/user-attachments/assets/fe96d7cc-b421-4a86-bd42-d4f88dca45ec" />
+
+Similarly to the flexure beam, I needed to ensure each of the pins and holes were at an equal distance away to ensure that they will adjoin perfectly to each other without any miscalculations. 
+
+<img width="706" height="663" alt="Screenshot 2026-09-22 094041" src="https://github.com/user-attachments/assets/848fd340-c377-4bf4-a575-53f35652151f" />
+
+<img width="922" height="522" alt="Screenshot 2026-09-22 094756" src="https://github.com/user-attachments/assets/9251e71c-d52b-4cdc-a2c7-703034f1fbd4" />
+
+Since the center pin was exactly in the middle of the face at 0.375 inches across, I ensured the length between the pins and holes for both parts were 0.255 inches. Now that I had parts that fit together in theory, it was time to print the pieces and see if they adjoin as they are intended to. 
+
