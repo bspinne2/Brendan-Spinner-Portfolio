@@ -93,3 +93,15 @@ When it was time to print my parts through Prusa Slicer, I knew I would need sup
 <img width="1305" height="682" alt="Screenshot 2026-09-22 122726" src="https://github.com/user-attachments/assets/bcd54487-eb67-4a2a-b231-0a1427849bd5" />
 
 I decided to add a perimeter of four and to increase the infill density to 20% to increase the overall structural integrity of the part and prevent any part from failing unexpectedly. The supports seemed to be more than satisfactory to prevent any warping with either object.  
+
+It was now time to actually print both objects. When I went to print originally I wasted some time as the printed I attempted to use was not properly loaded with filament so the printer was going through the motions with filament that was not actually there. I went back after this and chose another printer and it printed out just fine. This was my first experience with using supports and peeling them off of the print, so I was very nervous and cautious about messing up the print itself, however it turned out just fine. 
+
+https://github.com/user-attachments/assets/affaa007-b8c7-489d-a7b8-36a70e0e61a4
+
+<img width="3024" height="4032" alt="IMG_3005" src="https://github.com/user-attachments/assets/a355026f-5d4b-4cea-9662-2b1959242d75" />
+
+<img width="3024" height="4032" alt="IMG_3006" src="https://github.com/user-attachments/assets/b2933e8c-330d-4a83-925c-b8953baf8774" />
+
+## Reflection
+
+My build overall printed out just as expected. However, there is many things that I would change about it. For one, the pins were still too large for the holes so they did not go all the way in them. While this was not a huge problem, it hindered the purpose of the pieces to adjoin completely together. Additionally, I would try to find a way that I could increase the size of the build. While it served its purpose, it was a smaller build and could have been made larger. Another thing I could have done differently was incorporate a larger elasticity component within my build that really differentiated my part into a snap fit rather than a normal fit. I was able to bend the pins to fit into the holes, but did not use more more of the elastic component of the PLA material. Overall, this whole process took me about 6-8 hours to complete and was very valuable with learning how snap fits and the designs of them work. 
