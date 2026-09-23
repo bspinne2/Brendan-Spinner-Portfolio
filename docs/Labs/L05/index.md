@@ -76,3 +76,20 @@ Similarly to the flexure beam, I needed to ensure each of the pins and holes wer
 
 Since the center pin was exactly in the middle of the face at 0.375 inches across, I ensured the length between the pins and holes for both parts were 0.255 inches. Now that I had parts that fit together in theory, it was time to print the pieces and see if they adjoin as they are intended to. 
 
+## Research
+
+Source - Protolabs Network([https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/](url))
+
+The source above describes how the orientation of a part effects several factors of the overall print of the part. The part orientation does not only effect the aspects of the print itself such as build time, but it effects how the overall print of the object turns out. One factor of this impact is described in the article, being the strength of the object. When considering a part under constant load for FDM parts, tensions can create delamination and fractures. This is why it is imperative to create proper part orientation and ensure the dimensions prevent any way that the part could fail. I made sure that my part followed this criteria. 
+
+## Printing
+
+When it was time to print my parts through Prusa Slicer, I knew I would need supports as there were a lot of overhanging areas on both adjoining pieces. A main aspect of a snap fit design is the elasticity of the material so it was important to not over support the print and prevent the parts from maintaining their elastic qualities. 
+
+<img width="866" height="490" alt="Screenshot 2026-09-22 122646" src="https://github.com/user-attachments/assets/f70de6a1-0b81-4f2c-9c86-abe4ab838253" />
+
+<img width="717" height="275" alt="Screenshot 2026-09-22 122655" src="https://github.com/user-attachments/assets/c116e105-a065-4da2-a3bc-6cfa1553f9aa" />
+
+<img width="1305" height="682" alt="Screenshot 2026-09-22 122726" src="https://github.com/user-attachments/assets/bcd54487-eb67-4a2a-b231-0a1427849bd5" />
+
+I decided to add a perimeter of four and to increase the infill density to 20% to increase the overall structural integrity of the part and prevent any part from failing unexpectedly. The supports seemed to be more than satisfactory to prevent any warping with either object.  
