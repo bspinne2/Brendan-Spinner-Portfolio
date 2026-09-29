@@ -10,5 +10,8 @@ Before I can begin to design my design fit for my chosen artifact, I need to fir
 
 <img width="3024" height="4032" alt="IMG_3048" src="https://github.com/user-attachments/assets/1fd2fea2-2a1d-4c74-9bcc-a0ec6538f803" />
 
-The next step was to begin dimensioning the PCB using a caliper provided in class. Measuring using a caliper allows for an enhanced precision of each of the dimensions that hopefully leads to minimal room for error when it comes to designing in the CAD software. 
+The next step was to begin dimensioning the PCB using a caliper provided in class. Measuring using a caliper allows for an enhanced precision of each of the dimensions that hopefully leads to minimal room for error when it comes to designing in the CAD software. Below are dimensions of the PCB recorded by the caliper.
+
+<img width="2882" height="1776" alt="IMG_3049" src="https://github.com/user-attachments/assets/339d4602-cfad-4a17-b686-d7a702ed3b50" />
+
 
