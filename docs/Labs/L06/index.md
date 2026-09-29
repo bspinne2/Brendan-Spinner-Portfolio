@@ -97,3 +97,13 @@ Now that I had my completed design, it was time to start adding some parameters 
 
 <img width="1901" height="707" alt="Screenshot 2026-09-29 130431" src="https://github.com/user-attachments/assets/cab8197a-411f-42ea-96ef-4e1b89ed93c9" />
 
+I exported my G-Code to the drive for Printer 12 and began my initial print. The video of my first print can be seen below:
+
+https://github.com/user-attachments/assets/21bbedc0-3353-45b3-99c0-8bae84c2f894
+
+There was no noticeable errors during the printing process itself, however I noticed some very evident fails once I took my design out of the print and analyzed it. The most obvious error was that the pins were too far of a distance away from each other as compared to the PCB board. This means that I miscalculated my dimension values with the caliper or put them into my parametric modeling wrong. Another minor issue I recognized with my first print is that the mounting holes were much smaller than I expected them to be. In order for them to be functional, the screw would have to be super thin and tiny which is super rare to find. I knew that I would have to go back and make them larger . 
+
+### Second Print
+
+When I went to improvise my design, I recognize I had originally put the length and width dimensions 
+
