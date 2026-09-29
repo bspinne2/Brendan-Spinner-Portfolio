@@ -67,4 +67,33 @@ Now that I have the pins at a good set of dimensions, the next step is to create
 
 <img width="1083" height="620" alt="Screenshot 2026-09-29 000120" src="https://github.com/user-attachments/assets/2416cba4-1242-4ad4-9a59-3ad17160ea43" />
 
-After I applied the chamfer to the lip, the initial design for the snap fit system was pretty much complete. 
+### Creating Cutout
+
+After I applied the chamfer to the lip, the initial design for the snap fit system was pretty much complete. The final step was to give the pin room to elastically deform to fit into the hole. With the solid structure of the pin and lip as it is, the material would not be able to bend enough to fit and would not function as a snap fit. To fix this, I created a rectangular cut on each pin to give it this flexibility. 
+
+<img width="765" height="67" alt="Screenshot 2026-09-29 000348" src="https://github.com/user-attachments/assets/36b7eaf2-1943-4478-bb8a-6341ee777320" />
+
+<img width="1446" height="537" alt="Screenshot 2026-09-29 001150" src="https://github.com/user-attachments/assets/3a2ee47b-ac46-4787-805e-693eaeab693f" />
+
+<img width="1052" height="740" alt="Screenshot 2026-09-29 001924" src="https://github.com/user-attachments/assets/81ce60b2-3db6-426c-b016-b1046d64dec0" />
+
+### Creating Mounting Holes
+
+Now that the snap fit mechanism was fully functional in theory, it was time to add a unique and practical purpose to my design. I wanted to create mounting holes on either side of the PCB where somebody could affix it to something else. 
+
+<img width="767" height="122" alt="Screenshot 2026-09-29 165259" src="https://github.com/user-attachments/assets/fc52b1ed-f9a7-47f6-854c-2313e6193427" />
+
+<img width="1107" height="562" alt="Screenshot 2026-09-29 002817" src="https://github.com/user-attachments/assets/610617bb-e3c6-4b7c-99ba-70dbd9b5b4a0" />
+
+<img width="1182" height="477" alt="Screenshot 2026-09-29 003707" src="https://github.com/user-attachments/assets/560f60a5-5847-4bce-83f7-9bdbee8cf568" />
+
+<img width="1026" height="667" alt="Screenshot 2026-09-29 004450" src="https://github.com/user-attachments/assets/3a07c106-541d-4eed-9998-a759d150baff" />
+
+## First Print
+
+Now that I had my completed design, it was time to start adding some parameters and get ready to print. I decided to increase the perimeters to 4 to ensure the vertical prongs were 100% solid wall loops to maximize the tensile strength, ensuring the clips spring back instead of breaking. I also decided have 4 top layers and 4 bottom layers to ensure that the base plate and the top of the standoffs were completely sealed. I did not want to over constrain with parameters, so that was the extent of parameters I used. 
+
+<img width="857" height="498" alt="Screenshot 2026-09-29 123353" src="https://github.com/user-attachments/assets/68999b3d-8705-4b1b-8908-cdd7b264c8ec" />
+
+<img width="1901" height="707" alt="Screenshot 2026-09-29 130431" src="https://github.com/user-attachments/assets/cab8197a-411f-42ea-96ef-4e1b89ed93c9" />
+
