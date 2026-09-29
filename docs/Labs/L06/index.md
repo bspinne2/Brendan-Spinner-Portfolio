@@ -38,6 +38,7 @@ It was here where I encountered my first obstacle. Each of the solder joints hav
 
 <img width="1492" height="727" alt="Screenshot 2026-09-28 232439" src="https://github.com/user-attachments/assets/1904d89c-81bf-4675-b8dc-cfcfd9637525" />
 ### Creating Standoffs
+
 It was here where I had the idea to create two standoffs where each of the holes are located on the PCB that keep the base as a flat surface that is not effected by the underneath stubs of the solder joints. I updated my parametric modeling and continued with my design including the standoffs. 
 
 <img width="761" height="230" alt="Screenshot 2026-09-28 232610" src="https://github.com/user-attachments/assets/53b66248-5282-488d-9607-a90de7f5eeea" />
@@ -47,13 +48,17 @@ It was here where I had the idea to create two standoffs where each of the holes
 <img width="1071" height="666" alt="Screenshot 2026-09-28 233406" src="https://github.com/user-attachments/assets/a4e9030f-101a-4c24-8a0a-7be36eadf3d0" />
 
 <img width="1217" height="448" alt="Screenshot 2026-09-28 233442" src="https://github.com/user-attachments/assets/c8e33e40-0274-4cbf-a99a-60f9ab278c27" />
+
 ### Creating Pins
+
 Now that I solved the problem of the stub interference, the next step was to figure out how exactly this design was going to snap fit into the PCB. I already decided that i wanted to try something different than clips on the edges, so I figured why not create pins that snap directly into the holes already present on the PCB? I decided to go forward with this idea.
 
 <img width="1431" height="651" alt="Screenshot 2026-09-28 234926" src="https://github.com/user-attachments/assets/95ccf552-72d9-441c-9668-dc30d0dc2886" />
 
 <img width="1386" height="417" alt="Screenshot 2026-09-28 235004" src="https://github.com/user-attachments/assets/947c4f82-0458-4597-bead-180f609177ea" />
+
 ### Creating Overhang/lip
+
 Now that I have the pins at a good set of dimensions, the next step is to create some sort of lip that prevents the pin from slipping out from the hole. I figured that some sort of lip or overhang with a chamfer was the best course of action forward. 
 
 <img width="1246" height="600" alt="Screenshot 2026-09-28 235729" src="https://github.com/user-attachments/assets/f486e7d9-9088-4df8-b5d0-9c9566b8016e" />
