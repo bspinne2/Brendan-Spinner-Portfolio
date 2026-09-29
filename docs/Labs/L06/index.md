@@ -14,4 +14,13 @@ The next step was to begin dimensioning the PCB using a caliper provided in clas
 
 <img width="2882" height="1776" alt="IMG_3049" src="https://github.com/user-attachments/assets/339d4602-cfad-4a17-b686-d7a702ed3b50" />
 
+## Research
+
+Now that I measured some basic information about the circuit board, the next step was planning the snap fit itself and how it would affix itself to the PCB. I had some rough ideas in my head, however I wanted some visual inspiration for the design fits. I found one that to go off of on printables;
+
+<img width="1491" height="596" alt="Screenshot 2026-09-28 102649" src="https://github.com/user-attachments/assets/6dca0415-9ac1-48ad-9614-d356eddaf6f7" />
+
+I really liked the idea of making the snap fit into a PCB mount as it adds a practical purpose the fit that extends outside of the assignment criteria. One thing that can be observed from the inspiration design is that claw clips are utilized to snap into the underneath of the board which holds it together. Instead of using triangular clips, I really liked the idea of having cylindrical clips that connect to the holes of the PCB board. I believe this will make my design overall look clean, deliberate and unique. 
+
+## Parametric Design
 
