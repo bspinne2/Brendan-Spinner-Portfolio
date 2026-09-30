@@ -1,4 +1,4 @@
-# A6 – Design Fits for an Artifact
+# Lab 06) – Design Fits for an Artifact
 
 For this week's assignment, I was tasked with designing a snap fit part that affixes itself to an object chosen from a bag of objects used in engineering. The instructions for the assignment is listed as follows;
 
@@ -105,5 +105,15 @@ There was no noticeable errors during the printing process itself, however I not
 
 ### Second Print
 
-When I went to improvise my design, I recognize I had originally put the length and width dimensions 
+When I went to improvise my design, I recognize I had originally put the length and width dimensions parametrically as larger than the actual PCB dimensions and had forgotten to design the other elements accordingly. This caused my original print to be slightly bigger than the PCB which expectedly caused the pins to not align correctly with the holes. After adjusting to the proper dimensions, I also increased the size of the mounting holes to make them useful for practical use. 
+
+https://github.com/user-attachments/assets/e42e4304-80ef-4f3a-9388-8c77e6c55f12
+
+<img width="3024" height="4032" alt="IMG_3058" src="https://github.com/user-attachments/assets/6725fffb-5934-4ba3-84de-327f1c3219fa" />
+
+<img width="3024" height="4032" alt="IMG_3059" src="https://github.com/user-attachments/assets/ad21118e-191b-41a8-8c77-598dfdc8b564" />
+
+<img width="3024" height="4032" alt="IMG_3060" src="https://github.com/user-attachments/assets/4da05369-576f-4fbf-b14c-a5c81e2c23b7" />
+
+<img width="3024" height="4032" alt="IMG_3061" src="https://github.com/user-attachments/assets/e5102a03-8d0a-4a0e-bcfa-3ac7732381b6" />
 
