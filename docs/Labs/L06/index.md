@@ -117,3 +117,8 @@ https://github.com/user-attachments/assets/e42e4304-80ef-4f3a-9388-8c77e6c55f12
 
 <img width="3024" height="4032" alt="IMG_3061" src="https://github.com/user-attachments/assets/e5102a03-8d0a-4a0e-bcfa-3ac7732381b6" />
 
+When I went to remove my print from the printing pad, it was very difficult to remove. I ended up breaking off a corner from the print. Instead of reprinting entirely, I decided to breakoff a similar piece on each corner of the base to create a unique design to it. The dimensions on this print were accurate and fit perfectly. The fit was a success.
+
+### Lesson Learned
+
+I learned many things throughout this process. The most important lesson I gathered from this lab was that parametric modeling is very useful when it comes to fixing mistakes in the designing and printing process. Having certain variables creates organization and makes it easy to pinpoint where things went wrong. Another lesson I learned is that there are always more than one approach to certain obstacles. When it came time to account for the stubs of the solder joints, I came up with multiple different ways to avoid them from interfering with the build. A third thing I learned is that it is easy to lose track of which dimensions to use, so it is a good idea to go back and check your work every so often. This would have saved me a lot of time by realizing my mistake before the printing process even arrived. Overall, this assignment took me only about 5 hours to complete.
