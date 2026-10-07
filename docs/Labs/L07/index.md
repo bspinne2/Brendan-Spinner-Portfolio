@@ -50,7 +50,7 @@ The geometry and dimensions were randomly picked as I thought 30-80 mm was a goo
 
 Now that my rough kinematic sketch was created, the next step was to decide how exactly I want to affix my links together. The instructions of the assignment detail that components can either be printed or purchased, however I wanted to challenge myself. I wanted to try to print all of my components and still have a function linkage mechanism to show for it. Here was a table I created with all of the components that can be observed in my mechanism. 
 
-<img width="866" height="398" alt="Screenshot 2026-10-07 111215" src="https://github.com/user-attachments/assets/c5f37076-e899-4538-8808-b56f87f924f3" />
+<img width="740" height="250" alt="Screenshot 2026-10-07 113242" src="https://github.com/user-attachments/assets/87a213f4-f6da-4931-a87d-a8152f1d1e58" />
 
 As observed in the table, I opted to create some snap fit pins similar to the ones I created last week. these pins would keep the links affixed to one another, but have to allow for back and forth movement to occur. 
 
