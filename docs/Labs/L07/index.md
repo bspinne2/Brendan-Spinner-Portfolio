@@ -75,3 +75,55 @@ It was difficult to arrive at exact dimensions for my slot, so I decided to crea
 <img width="556" height="496" alt="Screenshot 2026-10-06 103411" src="https://github.com/user-attachments/assets/22432a76-af87-4792-966f-15b194c7c391" />
 
 Overall, the pins look effective and satisfactory. 
+
+### Creating the Links
+
+The next course of action was creating the four links of the mechanism. These would be the bodies that are adjoining together actually performing the back-and-forth oscillation movement of the linkage. I utilized the straight-slot tool to create the base of the links. I then created circular cuts to serve as the holes the pins would snap into. 
+
+<img width="787" height="563" alt="Screenshot 2026-10-06 112817" src="https://github.com/user-attachments/assets/5ddf2a15-2e32-4a9f-92ea-6ede2ef1f9a6" />
+
+<img width="1051" height="645" alt="Screenshot 2026-10-06 113339" src="https://github.com/user-attachments/assets/46ae9738-6bca-4174-b1c5-9ca619f13a0f" />
+
+<img width="800" height="412" alt="Screenshot 2026-10-06 113645" src="https://github.com/user-attachments/assets/a46b9386-57ea-4693-a077-54eb51bbb5a5" />
+
+This part was relatively simple as I was creating four pretty much identical parts where the only big difference was the differing lengths that were proportional with the kinematic model.
+
+### Creating an Assembly/Affixing the Parts
+
+For a good conceptual understanding of what the linkage mechanism should look like when the pins and links are connected, I decided to make an assembly in CAD that portrays the freedom of movement in the kinematic model.
+
+The big trick with ensuring the links lined up accurately was the mate tool. To accomplish this task I made each overlapping hole of the links concentric with the link it was to connect to, and made the respective top and bottom faces of the links coincident so that there was no space between them. 
+
+<img width="1340" height="641" alt="Screenshot 2026-10-06 114906" src="https://github.com/user-attachments/assets/619fbff3-b4fe-4704-a3b1-7ad660e53866" />
+
+<img width="1438" height="761" alt="Screenshot 2026-10-06 120240" src="https://github.com/user-attachments/assets/2c8d7f60-583f-4220-a8e8-4f9d8dea993c" />
+
+<img width="1036" height="662" alt="Screenshot 2026-10-06 120717" src="https://github.com/user-attachments/assets/ce6091d2-782e-458e-9091-2d3154651a00" />
+
+After the links were all properly aligned with each other, the next step was to add the pins to the assembly. This step was relatively simple. I mated the exterior surface of the shaft of the pin to the interior surface of the respective holes. This was the finished product of this.
+
+<img width="1421" height="635" alt="Screenshot 2026-10-06 120914" src="https://github.com/user-attachments/assets/dec8d82b-b025-4b53-b8ea-3c6d9dc254fb" />
+
+<img width="1130" height="645" alt="Screenshot 2026-10-06 121101" src="https://github.com/user-attachments/assets/08fe8e68-ca70-4f48-a748-92b5fb4ab3f9" />
+
+### Reflecting on Design
+
+Throughout the links and pins, there were some tolerance and clearance decisions I decided on in order to ensure the mechanism was not rigid and worked indeed as a linkage as intended to. One of these choices was I made the hole diameters of the links 5.4mm while I kept the pin shaft diameter at 5.0mm. This was to allow a smooth rotation and prevent any joint stoppage. I also added a  0.30mm undercut on the cantilever pin head to flex through the hole and snap securely over the top link face. This allowed me to have some room to work with in terms of how tightly the pins fit into the links. 
+
+Some design decision that I went with when designing the mechanism included choosing snap-fit pins rather than M3 screws to affix my links, choosing a 6mm arm thickness to prevent twisting or lateral flexing under movement, and printing horizontally so shear force does not snap pins along layer lines.
+
+## 3D print 
+
+Now it was time to print my linkage mechanism through Prusa slicer. Despite creating an assembly of all the pieces connected together, keeping them like that to print would significantly increase the print time of the build, so I decided to reseparate them so that they all lay flat and close together. 
+
+<img width="1162" height="796" alt="Screenshot 2026-10-06 124535" src="https://github.com/user-attachments/assets/bf264b8d-c313-4493-aacb-01b19b91e973" />
+
+<img width="880" height="490" alt="Screenshot 2026-10-06 124755" src="https://github.com/user-attachments/assets/68fb5947-c8dd-49b6-8df2-ecb9ea793468" />
+
+<img width="601" height="168" alt="Screenshot 2026-10-12 173033" src="https://github.com/user-attachments/assets/674055e5-2ae2-4b97-85b1-4603e9591394" />
+
+<img width="1886" height="1027" alt="Screenshot 2026-10-06 135429" src="https://github.com/user-attachments/assets/e6c30549-3d41-4575-bb0f-718d044d20a0" />
+
+I chose 
+
+
