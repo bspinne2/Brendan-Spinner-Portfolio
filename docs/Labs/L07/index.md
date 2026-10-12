@@ -124,6 +124,27 @@ Now it was time to print my linkage mechanism through Prusa slicer. Despite crea
 
 <img width="1886" height="1027" alt="Screenshot 2026-10-06 135429" src="https://github.com/user-attachments/assets/e6c30549-3d41-4575-bb0f-718d044d20a0" />
 
-I chose 
+I chose to maintain a lot of the parameters for the slice. One I did choose to alter was the number of perimeters to 3 as increasing perimeters strengthens the eyes surrounding the holes so they don't fracture when snap-pins are pressed in. I also kept the Elephant foot compensation to 0.20 mm as this slightly trims the very first layer outline, preventing the bottom edge of my pivot holes from flaring out and binding against the pin heads.
+
+I sliced the design and began to print;
+
+<img width="3024" height="4032" alt="IMG_3095" src="https://github.com/user-attachments/assets/0fa04c11-a867-4094-8571-607d052ed350" />
+
+https://github.com/user-attachments/assets/18809eed-ba67-4e28-8b94-ed1631ade683
+
+<img width="3024" height="4032" alt="IMG_3097" src="https://github.com/user-attachments/assets/dc5125f7-c3a6-4ed8-89d5-d0a2886470d1" />
+
+https://github.com/user-attachments/assets/409eb5c1-2116-4ae7-8388-fa99fbfd3733
+
+Overall, the linkage mechanism was a success! The fits were a little loose, largely do to the clearances I applied to the links. If I want to make it a little tighter I would probably decrease the holes size to 5.2mm diameter rather than 5.4mm diameter, so I would definitely fix that. On the bright side, the pins fit perfectly and do not slide out at all. The oscillation movement of the links is beyond satisfactory. 
+
+## Lessons Learned
+
+The project required approximately 6 hours total broken down into 0.5 hours of patent research, 2 hours of SolidWorks CAD modeling, 0.5 hours of slicing, 1 hour of printing on the Prusa Core One, and 2 hours for post-processing and physical assembly. The most significant error occurred during CAD assembly when mate constraints failed because exported multi-body links defaulted to "Fixed" status; this was identified via SolidWorks rebuild warnings and resolved by setting the moving links to "Float". The 0.4mm designed clearance  worked successfully on the first print, though tightening the holes by an additional 0.1 to 0.2mm would compensate even better a tighter and less loose linkage movements that still oscillates, but feels a little more sturdy. 
+
+
+
+
+
 
 
