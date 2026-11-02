@@ -29,3 +29,4 @@ Kerf is the measured value that is erased or cut out during the process of laser
 When getting to the actual cutting process of the square block, we needed the help of a couple of the lab assistances to help with connecting to the print. Setting up the print itself was a lot more challenging and difficult than the print itself. I was definitely shocked with how quickly it cut out the piece. 
 
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/957f4ce7-c252-4fb0-af8a-abe9a5a5db71" />
+https://github.com/user-attachments/assets/85034c2d-c6f7-4c07-b778-f15f9fbc84d0
