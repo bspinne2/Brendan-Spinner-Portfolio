@@ -127,8 +127,26 @@ After laser cutting, we assembled the pieces together as best as we could.
 
 While we accomplished our rough geometry of our design, the fits were rather lose and did not attain the practical pen holder application that we had planned. To fix this, we decided to increase the clearance by 0.001 inch, which by itself seems rather trivial, but managed to completely fix our design and its efficiency.
 
+## Lessons Learned
 
+### Process Log
+* **Total Time:** 5.5 hours total( 1.5 hours analysis, 3 hours designing and 1 hour reflection/documentation).
 
+### Mistakes, Troubleshooting, and Modifications
+* **Initial Fit Issue:** Upon initial laser cutting and assembly, the overall 3D pen holder geometry was successfully created, but the interlocking tab-and-slot fits were overly loose, preventing the assembly from holding pens securely.
+* **Troubleshooting & CAD Parametrics:** We reviewed our parametric model where slot width was governed by `THICKNESS - (KERF + CLEARANCE)`. With a measured kerf of 0.00425" and nominal thickness of 0.1072", the clearance was producing excess play.
+* **Design Modification:** We adjusted the CAD model by increasing the clearance parameter by 0.001", effectively tightening the interlocking slots. This small change eliminated wobble and restored full structural stability and functional efficiency.
+
+### Resources Used
+* **Material:** 1 sheet of 1/8 inch laser-cut plywood
+* **Tools & Consumables:** CO2 laser cutter and digital calipers for parametric tolerance measurements
+
+### Reflection Prompts
+
+1. **Measured vs. Assumed Values:** Real sheet thickness varied from nominal values, and our baseline kerf assumption initially allowed too much play in the slots. If we had strictly relied on unadjusted assumed values without modifying clearance, the structure would remain too loose to function as a stable pen holder.
+2. **Taguchi's Quality Loss Function Analysis:** While the current interlocking joints work, they deviate slightly from an ideal friction-fit target. Under Taguchi's model, any deviation from target quality incurs a financial loss; produced at scale, this variance would cause inconsistent customer assembly quality, higher return rates, and lower product reliability.
+3. **Real-World Product Example:** Flat-pack furniture and sheet metal enclosures use similar tab-and-slot joints. For customers, kerf or thickness errors show up as joints that are either impossible to assemble without damaging parts (too tight) or structurally weak and prone to rattling (too loose).
+4. **Future Design Iterations:** If granted one additional test cut, we would micro-adjust the slot clearance down by another 0.0005" to achieve a perfect, tool-free press fit that firmly locks the frame together without needing glue.
 
 
 
