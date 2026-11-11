@@ -10,7 +10,7 @@ The ASME RC 2 (Sliding Fit) is designed for accurate location of mating parts wh
 
 The clearance limits given by the ASME/Machinery's Handbook for nominal size are as followed:
 
-** Minimum Clearance (Cmin): [e.g., +0.005 mm]
+** Minimum Clearance (Cmin): ** [e.g., +0.005 mm]
 ** Maximum Clearance (Cmax): [e.g., +0.020 mm]
 ** Hole Tolerance Zone: [e.g., +0.012 mm / -0.000 mm]
 ** Shaft Tolerance Zone: [e.g., -0.005 mm / -0.015 mm]
