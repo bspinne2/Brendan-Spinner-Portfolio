@@ -1,4 +1,4 @@
-# Lab 10) RC2 Sliding Fit Design and Verifaction
+# Lab 10) RC2 Sliding Fit Design and Verification
 
 This week's assignment was to SLA print an RC 2 sliding fit. This print is different than all of my past prints as it uses a more advanced 3D printer which utilizes more expensive resin rather than filament. 
 
@@ -10,7 +10,10 @@ The ASME RC 2 (Sliding Fit) is designed for accurate location of mating parts wh
 
 The clearance limits given by the ASME/Machinery's Handbook for nominal size are as followed:
 
-** Minimum Clearance (Cmin): ** [e.g., +0.005 mm]
-** Maximum Clearance (Cmax): [e.g., +0.020 mm]
-** Hole Tolerance Zone: [e.g., +0.012 mm / -0.000 mm]
-** Shaft Tolerance Zone: [e.g., -0.005 mm / -0.015 mm]
+Minimum Clearance (Cmin): [e.g., +0.005 mm]
+
+Maximum Clearance (Cmax): [e.g., +0.020 mm]
+
+Hole Tolerance Zone: [e.g., +0.012 mm / -0.000 mm]
+
+Shaft Tolerance Zone: [e.g., -0.005 mm / -0.015 mm]
