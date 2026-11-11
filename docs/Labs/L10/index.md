@@ -118,6 +118,20 @@ After pulling off all the support and polishing the finish, this was my final re
 
 <img width="3024" height="4032" alt="IMG_3290" src="https://github.com/user-attachments/assets/4a73cfe6-2d8e-42ff-889a-80625ee7ca4b" />
 
+Evidently, the shaft unfortunately did not fit into the bore hole. Visually, the print quality looked great with sharp edges and clean outer surfaces. However, I noticed that light bleed inside the enclosed socket during printing, combined with a bit of resin expansion during the post-cure, made the internal opening slightly tighter than the CAD model intended. Because of this, when I went to test the fit right out of the curing station, the shaft got stuck right at the entrance and couldn't slide in.
+
+## Fit Test
+
+When I measured the finished parts with my digital calipers, the dimensions showed why the assembly seized. My target width for the hole was 10.03 mm, but it came out undersized at 9.94 mm due to resin bleed inside the cavity. Meanwhile, the shaft came out slightly oversized at 9.98 mm instead of the target 9.97 mm. This gave me a negative clearance of -0.04 mm, turning my intended RC 2 sliding fit into an unintentional interference fit.
+
+To fix this and complete the verification, I had to do some manual post-processing. I used 800-grit wet sandpaper to smooth down the contact sides of the shaft and used a craft knife to scrape out resin flash inside the socket. After taking off about 0.05 mm of material, the shaft finally slid inside. Once adjusted, the pin moved smoothly through the block with good alignment and no loose wobble, fulfilling the intended sliding feel.
+
+## Lessons Learned
+
+The main challenge on this print was underestimating how much SLA resin light bleed and post-curing affect small internal features. The 0.06 mm clearance offset I designed in CAD works fine on paper for an RC 2 fit, but in practice, UV light scatters inside tight cavities during printing and causes the hole to shrink while the shaft expands slightly.
+
+If I were to do this project again, I would increase my CAD clearance offset to around 0.10 mm to 0.15 mm to naturally account for SLA resin behavior without needing manual post-print fixes. I would also tweak the XY scaling in the slicer software beforehand. Overall, I spent about 7.5 hours on this assignment across CAD modeling, printing, post-processing, sanding, and measuring.
+
 
 
 
