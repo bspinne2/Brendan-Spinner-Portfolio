@@ -111,3 +111,75 @@ Another thing that can be observed is how truly small this build was. When I ori
 Because of this, I was forced with a decision to redesign my build or start a completely new design. I opted to keep the same nominal idea and make some changes to make the feature available for practical use.
 
 ## Rebuilding
+
+When rebuilding, I recognized my original design was not ideal in the slightest. The latching clip was not of an ideal geometry to snap into the mating holes feature. I wanted to emphasize this feature more in my rebuild.
+
+I decided that it would be better to completely start from scratch instead of simply editing my previous design.
+
+<img width="757" height="190" alt="Screenshot 2026-11-16 144530" src="https://github.com/user-attachments/assets/8710850a-e321-454e-b038-9f13ad971609" />
+
+I redefined my dimensions parametrically.
+
+<img width="817" height="731" alt="Screenshot 2026-11-16 145041" src="https://github.com/user-attachments/assets/2aacffff-67a7-4e53-a414-5faad2f61ff8" />
+
+<img width="890" height="747" alt="Screenshot 2026-11-16 145356" src="https://github.com/user-attachments/assets/59e0c079-2177-482e-87cf-51b287a3bbd7" />
+
+I created a lip for which the mating lid can rest on.
+
+<img width="896" height="790" alt="Screenshot 2026-11-16 150242" src="https://github.com/user-attachments/assets/eadd7855-e2cf-4d4e-8897-05b29b79365d" />
+
+<img width="995" height="552" alt="Screenshot 2026-11-16 150303" src="https://github.com/user-attachments/assets/81afe2db-e424-4cdc-9783-34c265e88eab" />
+
+I created these slots in order to aid in the flexibility of the hooking feature and really enhance the snap fit efficiency.
+
+<img width="532" height="505" alt="Screenshot 2026-11-16 150606" src="https://github.com/user-attachments/assets/7b07f5e3-62a8-448e-8b1d-9d375a5eaff5" />
+
+Fillets were added to reduce the total stress concentrations.
+
+<img width="775" height="583" alt="Screenshot 2026-11-16 153632" src="https://github.com/user-attachments/assets/d35c8d56-e9a3-48cd-8ee6-9aa3b7b8d0af" />
+
+I originally started with a up-sloping extruded triangle as my hook feature, but ultimately decided against it as I was afraid that after the resin dried it would not be prominent enough to mate with the other part.
+
+<img width="888" height="847" alt="Screenshot 2026-11-16 164820" src="https://github.com/user-attachments/assets/5b96a691-0801-4528-8af4-9ce47fe1d5f6" />
+
+This was the rough design I ultimately came up with for the hook feature. The objective was that the top feature could bend back to fit with the respective hole feature on the lid. I added a chamfer at the overhanging surface to make for a smooth glide when fitting.
+
+<img width="996" height="353" alt="Screenshot 2026-11-16 171851" src="https://github.com/user-attachments/assets/577c9bf5-8a6f-4560-92fd-d11646ba471a" />
+
+<img width="1315" height="773" alt="Screenshot 2026-11-16 171842" src="https://github.com/user-attachments/assets/453a9840-d2d1-4ace-b43b-066e2f50923b" />
+
+<img width="826" height="851" alt="Screenshot 2026-11-16 172250" src="https://github.com/user-attachments/assets/c38733ee-5466-4d01-a477-684fc24d2a11" />
+
+The overhanging receiving hole feature I put at an angle to account for the bending of the hook feature. If it was horizontal or vertical the hook would not fit with the hook and be able to stay on the base at the same time.
+
+<img width="950" height="915" alt="Screenshot 2026-11-16 174300" src="https://github.com/user-attachments/assets/75a6f069-59e8-4f2f-8a45-06d472482237" />
+
+<img width="907" height="907" alt="Screenshot 2026-11-16 172536" src="https://github.com/user-attachments/assets/a2563636-4226-45fc-8776-8374490b5245" />
+
+I struggled originally with getting the dimension accurate enough to fit into an assembly, but eventually I got the features to fit into a seemingly efficient assembly.
+
+### Reprinting
+
+I exported the two separate part files into PreForm and messed around with the settings to optimize the print time, area concentration of supports, and reducing any resin that could get trapped in the print.
+
+<img width="958" height="892" alt="Screenshot 2026-11-17 114614" src="https://github.com/user-attachments/assets/46cd56cf-cb57-4e3d-b0b0-f9b53c603698" />
+
+The total print time was close to 2 hours for this print, I then moved it to the alcohol bath for cleaning.
+
+<img width="3024" height="4032" alt="IMG_3414" src="https://github.com/user-attachments/assets/5f8f9037-5e1f-4dc8-9a02-816d04dae7a6" />
+
+After the bath, I removed my print and scraped it off of the build platform. I immediately recognized how many supports were on the my build, I did not think there would be this many so I was shocked to see this.
+
+<img width="3024" height="4032" alt="IMG_3415" src="https://github.com/user-attachments/assets/4c7616c0-e45a-4e5b-934e-05f8c7ae6368" />
+
+It took me about 30 mins to get all of the supports off. After further analysis, I realized that somehow my lid dimensions were much too small for the box dimensions. I am unaware and unsure where this step went wrong. Additionally, my snap-fit feature is non-functional.
+
+## Validation
+
+During testing, the snap-fit mechanism did not engage securely because the printed lid was slightly too small for the base box. The fit was too tight to assemble without forcing the parts, preventing the inner alignment skirt from seating cleanly inside the base rim and stopping the 6mm cantilever hook from reaching the catch pocket on the front lid skirt. To achieve an ideal fit, adjustments are needed in SOLIDWORKS or scaling before reprinting: expanding the clearance gap on the inner alignment skirt to 25-35mm around the base lip and deepening the internal catch pocket to 0.6mm so the 0.5mm hook can snap into place smoothly without binding.
+
+## Lessons Learned
+
+The biggest challenge with SLA resin is that it is much stiffer and less forgiving than FDM plastic, so if the tolerances are even slightly off, the parts won't flex or snap together without risking a crack. I learned that designing to exact nominal dimensions in CAD doesn't work once the resin cures and shrinks—adding a 0.25mm clearance gap, rounding out the relief slot corners, and angling the print at 30 degrees to 45 degrees are all necessary so the surfaces stay smooth and the tab actually flexes. Looking at the time and cost of printing, washing, and curing the full box, printing a quick small test piece of just the latch first would have saved a lot of resin and post-processing time. I attempted two different prints for this assignment but both seemed to fail. I learned how much more meticulous that SLA resin printing can be as opposed to FDM filament based printing. The time is also much large for a smaller build. 
+
+
