@@ -37,4 +37,24 @@ I generated a rough sketch of my design above that makes the idea of my design e
 
 **Manufacturing Feasibility**: My goal is to print the FDM spring arm flat on its side in PETG (for flexibility and strong layer adhesion along the curve) with a 2–3 mm wall thickness. I also plan to apply a kerf offset (~0.15 mm) to the laser-cut slots so the 3D-printed tabs fit tightly without wobbling.
 
-### 
+### Designing my Prototypes
+
+#### Laser-Cut Bracket
+
+Designing this feature was very easy and simplistic. I simply created a small rectangular sketch with two slots and equal distance away from the center of the rectangle. I made sure to account for clearance so that when my mating male part slides in effortlessly.
+
+<img width="1048" height="661" alt="Screenshot 2026-11-17 115757" src="https://github.com/user-attachments/assets/4b3fb5f9-35d2-4412-a812-495f99d7fa7a" />
+
+I exported this simple sketch into Epilogue and grabbed a 3mm thick piece of plywood. 
+
+<img width="476" height="486" alt="Screenshot 2026-11-17 151114" src="https://github.com/user-attachments/assets/fc7e63d9-d792-4262-af12-cec080b1df82" />
+
+The first cut for some reason did not cut all the way through, however I simply recut it and it came out perfectly.
+
+<img width="3024" height="4032" alt="IMG_3413" src="https://github.com/user-attachments/assets/0dac98fc-c995-45bd-bd96-21ddc6510b14" />
+
+#### 3D-Printed Wedge
+
+Creating the geometry for this wedge only contained a few steps, especially considering that this would be a rough prototype for my final project.
+
+
