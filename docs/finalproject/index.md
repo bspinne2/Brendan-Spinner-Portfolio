@@ -29,6 +29,9 @@ Using my laptop flat on a desk causes neck strain during long work sessions and 
 
 **Why & How I Want to Solve It**: The sudden rattling is loud, distracting, and happens constantly throughout the day. Existing adhesive foam strips either wear out quickly or make the door too hard to latch. Instead, I will design a two-part mechanical damper that mounts non-destructively to the doorframe stop using removable adhesive strips. When the door closes, the curved FDM spring arm compresses slightly against the door face to absorb the latch gap and eliminate vibration without requiring extra force to open or close the door.
 
+**Video Of Problem** : [![Watch the video](https://img.youtube.com/vi/brH7joig8qw/hqdefault.jpg)](https://www.youtube.com/watch?v=brH7joig8qw)
+
+
 ### Concept Development
 
 <img width="2765" height="2746" alt="IMG_3412" src="https://github.com/user-attachments/assets/8cea3e22-8934-40e1-b202-26ebe861ddd4" />
@@ -57,4 +60,23 @@ The first cut for some reason did not cut all the way through, however I simply 
 
 Creating the geometry for this wedge only contained a few steps, especially considering that this would be a rough prototype for my final project.
 
+<img width="760" height="117" alt="Screenshot 2026-11-24 001609" src="https://github.com/user-attachments/assets/fa8377ff-13a5-47e7-828c-0f606776f0a2" />
+
+I began by parametrically designing the dimensions of the printed block to how I thought they would best fit with the already laser cut bracket. I kept the thickness of the beam to be only 3mm to account for the 3.2mm thickness of the bracket slot.
+
+<img width="1263" height="803" alt="Screenshot 2026-11-17 120437" src="https://github.com/user-attachments/assets/5377a1cb-996d-4007-a1f7-7144c597f761" />
+
+<img width="897" height="732" alt="Screenshot 2026-11-17 120832" src="https://github.com/user-attachments/assets/37672569-4fa7-4311-a75c-6289330b003c" />
+
+I began with a 25mm long rectangle that matches the dimensions of the bracket so that they are relatively similar in size and so the printed wedge does not extend past the bracket itself in practice.
+
+<img width="965" height="757" alt="Screenshot 2026-11-17 121149" src="https://github.com/user-attachments/assets/203b3c65-fe6d-4c3f-aaf4-198eee07825d" />
+
+After extruding the base piece of the wedge, it was time to create the beams that adjoin into the slotted bracket.
+
+<img width="772" height="812" alt="Screenshot 2026-11-17 121914" src="https://github.com/user-attachments/assets/3e150084-98b0-41a4-81e7-8e8ca62c3f1f" />
+
+<img width="901" height="852" alt="Screenshot 2026-11-17 122020" src="https://github.com/user-attachments/assets/7308cf1c-fd09-46ad-b4e4-1df0b2937777" />
+
+Now the initial rough design of my wedge was complete and it was time to print it out.
 
