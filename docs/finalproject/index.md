@@ -155,3 +155,11 @@ Now that both of my parts for this project are sufficient enough, it is time to 
 The picture above represents how the build is oriented in the door frame itself. The laser cut bracket is wedged in the crevasse between the door and the frame itself and that friction force is heavily responsible for the part staying steady and not succumbing to the affects of gravity. The tighter the clearance the plywood has between the frame and the door, the more resulting force that is pushed back against the door when the vibrations occur. I decided to implement this important utilization of clearances rather than using some other adhesive, command strip or screw to keep the door stopper afloat. This method is also the easiest method to implement and the most appealing to look at as command strips and screws can be quite the eye sore. 
 
 **Video of Stopper working as intended** : [![Final Project - Testing Design](https://img.youtube.com/vi/yi7aH6xnD5M/hqdefault.jpg)](https://www.youtube.com/watch?v=yi7aH6xnD5M)
+
+### Google Slide Presentation
+
+[SoDe Final Project - Door Stopper.pdf](https://github.com/user-attachments/files/35350081/SoDe.Final.Project.-.Door.Stopper.pdf)
+
+### Final Video Summary
+
+[![Summary Video](https://img.youtube.com/vi/hFO7_BGBJk0/hqdefault.jpg)](https://www.youtube.com/watch?v=hFO7_BGBJk0)
