@@ -80,3 +80,78 @@ After extruding the base piece of the wedge, it was time to create the beams tha
 
 Now the initial rough design of my wedge was complete and it was time to print it out.
 
+https://github.com/user-attachments/assets/158b476b-8166-47a3-a631-ccf171f15c79
+
+<img width="4032" height="3024" alt="IMG_3439" src="https://github.com/user-attachments/assets/cde54b65-8ffd-4237-a21e-e9e937fbc787" />
+
+<img width="4032" height="3024" alt="IMG_3440" src="https://github.com/user-attachments/assets/21d93c1c-1999-40a3-8aed-1cb508b45e98" />
+
+<img width="4032" height="3024" alt="IMG_3441" src="https://github.com/user-attachments/assets/fd677d85-a248-46af-a606-410f50d462c3" />
+
+After printing out the first copy of the wedge, it was very evident that I incorrectly dimensioned the distance between beams in relation to the distance between the slots on the bracket. Additionally, looking at the prototype, I gathered that having the beams extend across the entire wedge would be more optimal for a tighter fit.
+
+### Peer Review 
+
+After my rough plan and prototypes were complete, it was time to gather into groups and discuss my path forward and reflect on my work thus far.
+
+My team members for this peer review were Atiba and Randy. Here are their peer review worksheets based off of my initial pitch.
+
+<img width="2735" height="3168" alt="IMG_3464" src="https://github.com/user-attachments/assets/6caaff5d-351d-47c1-a110-a8877f372a27" />
+
+<img width="2959" height="1905" alt="IMG_3465" src="https://github.com/user-attachments/assets/d7edbf22-92ff-4885-b20e-ac924974f48e" />
+
+<img width="2687" height="2703" alt="IMG_3466" src="https://github.com/user-attachments/assets/b477275f-6326-43a2-af2e-64d1409c0a74" />
+
+<img width="2994" height="1599" alt="IMG_3467" src="https://github.com/user-attachments/assets/b2f03d08-a7f3-40bf-9d55-3ccfdb7d1561" />
+
+Both Atiba and Randy stated how they liked the originality of my project idea and were very optimistic about the practicality of my concept working as planned. They specifically emphasized how they liked the simplicity of my idea, and how I used the laser printer rather than the SLA printer. We discussed that my biggest obstacle would be ensuring that the right tolerances were implemented so that no other adhesive is required to keep the part intact and so that it is sufficient and does its job. Overall, my peer feedback was really helpful and reassuring for me to continue with my idea and enhance my project. 
+
+## Part 2) Enhance the Prototype
+
+### Fixing the Wedge
+
+Based off my observations after the first print of the wedge, my next step was to go back and redesign my wedge to fit accurately with bracket.
+
+<img width="762" height="127" alt="Screenshot 2026-11-24 011214" src="https://github.com/user-attachments/assets/25e6a9de-c9d9-49b6-9caa-2b25be773f9b" />
+
+<img width="1411" height="997" alt="Screenshot 2026-11-24 011010" src="https://github.com/user-attachments/assets/4d5f05a0-9c91-4da6-ad81-a37801c07c0f" />
+
+This time, I changed the overall thickness of the part from 20mm to 21mm. This ensures that the beam align evenly this time with the slots as they were not aligned correctly during the first print. I also changed the beam length so that it goes across the entire height of the wedge and is almost identical to its mating slot.
+
+After fixing these simple things, I went to print and record how the two pieces affixed to one another.
+
+#### Second Attempt Results & Observations
+
+<img width="3024" height="4032" alt="IMG_3442" src="https://github.com/user-attachments/assets/aaf4a61f-d183-4045-8854-cf7a9649aaa2" />
+
+<img width="3024" height="4032" alt="IMG_3443" src="https://github.com/user-attachments/assets/bc149672-d24a-4e34-af1c-972aa4b82d80" />
+
+<img width="3024" height="4032" alt="IMG_3444" src="https://github.com/user-attachments/assets/15bd14c2-d45c-4ea7-9df5-bcee03b8a608" />
+
+As can be observed from the pictures above, while this print was a lot closer to fitting into the slotted bracket, there was an evident printing error that made snapping into place difficult. I found out that having my print orientation on the side caused issues for my print as there was nothing for the top beam to layer on top of. My fix to this was to use a new build orientation.
+
+#### Third Attempt Results & Observations
+
+<img width="721" height="167" alt="Screenshot 2026-11-20 122237" src="https://github.com/user-attachments/assets/cbd4d0c5-2be2-431a-8258-d2ab65ddd342" />
+
+<img width="856" height="361" alt="Screenshot 2026-11-20 122245" src="https://github.com/user-attachments/assets/ca8a6c2b-4e72-425a-bca4-a57cbe707f81" />
+
+<img width="673" height="252" alt="Screenshot 2026-11-20 122254" src="https://github.com/user-attachments/assets/c775a927-d37d-419b-b6e8-f6122afa5b82" />
+
+<img width="1902" height="946" alt="Screenshot 2026-11-20 142102" src="https://github.com/user-attachments/assets/378b9248-ecf6-4e8a-9766-ef7247720ae0" />
+
+I did not fix any of the dimensions before reprinting, I simply rearranged the build orientation to be as it appears above.
+
+<img width="3024" height="4032" alt="IMG_3445" src="https://github.com/user-attachments/assets/544e40d8-96a0-4061-98a0-571a8ebe5cbd" />
+
+This was my reprinted wedge design. There was no printing issues with this print and the mating pieces joined together pretty well.
+
+### Testing its Efficiency
+
+Now that both of my parts for this project are sufficient enough, it is time to analyze how well it works.
+
+<img width="3024" height="4032" alt="IMG_3468" src="https://github.com/user-attachments/assets/849fb013-f3b1-404b-9698-18d43337c7be" />
+
+The picture above represents how the build is oriented in the door frame itself. The laser cut bracket is wedged in the crevasse between the door and the frame itself and that friction force is heavily responsible for the part staying steady and not succumbing to the affects of gravity. The tighter the clearance the plywood has between the frame and the door, the more resulting force that is pushed back against the door when the vibrations occur. I decided to implement this important utilization of clearances rather than using some other adhesive, command strip or screw to keep the door stopper afloat. This method is also the easiest method to implement and the most appealing to look at as command strips and screws can be quite the eye sore. 
+
+**Video of Stopper working as intended** : [![Final Project - Testing Design](https://img.youtube.com/vi/yi7aH6xnD5M/hqdefault.jpg)](https://www.youtube.com/watch?v=yi7aH6xnD5M)
