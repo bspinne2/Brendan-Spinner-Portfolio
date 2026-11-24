@@ -29,7 +29,7 @@ Using my laptop flat on a desk causes neck strain during long work sessions and 
 
 **Why & How I Want to Solve It**: The sudden rattling is loud, distracting, and happens constantly throughout the day. Existing adhesive foam strips either wear out quickly or make the door too hard to latch. Instead, I will design a two-part mechanical damper that mounts non-destructively to the doorframe stop using removable adhesive strips. When the door closes, the curved FDM spring arm compresses slightly against the door face to absorb the latch gap and eliminate vibration without requiring extra force to open or close the door.
 
-**Video Of Problem** : [![Watch the video](https://img.youtube.com/vi/brH7joig8qw/hqdefault.jpg)](https://www.youtube.com/watch?v=brH7joig8qw)
+**Video Of Problem** : [![Final Project - Problem Explanation](https://img.youtube.com/vi/brH7joig8qw/hqdefault.jpg)](https://www.youtube.com/watch?v=brH7joig8qw)
 
 
 ### Concept Development
